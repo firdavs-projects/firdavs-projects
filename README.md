@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### ⚡ Firdavs Abdulloev, 25 y.o, Frontend Developer
+### I am Firdavs Abdulloev, 25 y.o, Frontend Developer
 
 **Technologies stack:**
 * HTML/CSS

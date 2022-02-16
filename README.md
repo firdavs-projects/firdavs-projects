@@ -10,7 +10,7 @@
 * Node/Express
 * Mysql/Mongo/Postgres
 
-📫 How to reach me: [telegram] (https://t.me/firdavs_abdulloev)
+📫 How to reach me: [telegram](https://t.me/firdavs_abdulloev)
 
 
 <!--

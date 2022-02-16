@@ -3,12 +3,12 @@
 ### ⚡ Firdavs Abdulloev, 25 y.o, Frontend Developer
 
 **Technologies stack:**
-*HTML/CSS
-*JavaScript/Typescript
-*React/Next
-*Angular
-*Node/Express
-*Mysql/Mongo/Postgres
+* HTML/CSS
+* JavaScript/Typescript
+* React/Next
+* Angular
+* Node/Express
+* Mysql/Mongo/Postgres
 
 📫 How to reach me: [telegram] (https://t.me/firdavs_abdulloev)
 

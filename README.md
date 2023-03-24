@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Firdavs Abdulloev, 26 y.o, Web Engineer
+### I am Firdavs Abdulloev, 26 y.o, Frontend Engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=firdavs-projects&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true")
 
@@ -22,5 +22,3 @@
 [![wakatime](https://wakatime.com/badge/user/0b091e11-b83e-455a-b83b-12c1937cd882.svg)](https://wakatime.com/@0b091e11-b83e-455a-b83b-12c1937cd882)
 
 ## 📫 How to reach me: [telegram](https://t.me/firdavs_abdulloev)
-
-![Graph](https://activity-graph.herokuapp.com/graph?username=firdavs-projects&theme=react-dark&hide_border=true&hide_title=false&area=true)

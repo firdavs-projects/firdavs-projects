@@ -2,8 +2,6 @@
 
 ### I am Firdavs Abdulloev, 26 y.o, Frontend Engineer
 
-![](https://github-readme-stats.vercel.app/api?username=firdavs-projects&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true")
-
 **Technologies stack:**
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=white)

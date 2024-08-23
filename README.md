@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Firdavs Abdulloev, 26 y.o, Frontend Engineer
+### I am Firdavs Abdulloev, 27 y.o, Frontend Engineer
 
 **Technologies stack:**
 
